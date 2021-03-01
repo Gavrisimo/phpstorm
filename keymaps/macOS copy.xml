@@ -1,6 +1,3 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
   <action id="ToggleFullScreen" />
-  <action id="Tool_External Tools_php-cs-fixer">
-    <keyboard-shortcut first-keystroke="ctrl meta f" />
-  </action>
 </keymap>
